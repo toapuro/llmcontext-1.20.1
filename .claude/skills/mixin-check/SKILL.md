@@ -10,3 +10,4 @@ Check all items on the following checklist
 * [ ] Correct `remap` configuration
 * [ ] Injection is minimal and precise
 * [ ] The method names defined with `@Invoker` or `@Accessor` do not exist in the target class
+* [ ] Does not use `@Overwrite`, `@Redirect`, or `@ModifyConstant`
